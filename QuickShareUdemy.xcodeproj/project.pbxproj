@@ -15,6 +15,13 @@
 		3DD491491C506093007F6DA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DD491471C506093007F6DA9 /* LaunchScreen.storyboard */; };
 		3DD491541C506093007F6DA9 /* QuickShareUdemyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD491531C506093007F6DA9 /* QuickShareUdemyTests.swift */; };
 		3DD4915F1C506093007F6DA9 /* QuickShareUdemyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD4915E1C506093007F6DA9 /* QuickShareUdemyUITests.swift */; };
+		3DD491721C50636D007F6DA9 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DD4916C1C50636D007F6DA9 /* facebook.png */; };
+		3DD491731C50636D007F6DA9 /* facebook@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DD4916D1C50636D007F6DA9 /* facebook@2x.png */; };
+		3DD491741C50636D007F6DA9 /* facebook@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DD4916E1C50636D007F6DA9 /* facebook@3x.png */; };
+		3DD491751C50636D007F6DA9 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DD4916F1C50636D007F6DA9 /* twitter.png */; };
+		3DD491761C50636D007F6DA9 /* twitter@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DD491701C50636D007F6DA9 /* twitter@2x.png */; };
+		3DD491771C50636D007F6DA9 /* twitter@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DD491711C50636D007F6DA9 /* twitter@3x.png */; };
+		3DD491791C5064C8007F6DA9 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3DD491781C5064C8007F6DA9 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +47,7 @@
 		3DD4913E1C506093007F6DA9 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		3DD491401C506093007F6DA9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		3DD491431C506093007F6DA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3DD491451C506093007F6DA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3DD491451C506093007F6DA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = QuickShareUdemy/Assets.xcassets; sourceTree = "<group>"; };
 		3DD491481C506093007F6DA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DD4914A1C506093007F6DA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3DD4914F1C506093007F6DA9 /* QuickShareUdemyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickShareUdemyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +56,13 @@
 		3DD4915A1C506093007F6DA9 /* QuickShareUdemyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuickShareUdemyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DD4915E1C506093007F6DA9 /* QuickShareUdemyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickShareUdemyUITests.swift; sourceTree = "<group>"; };
 		3DD491601C506093007F6DA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DD4916C1C50636D007F6DA9 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook.png; sourceTree = "<group>"; };
+		3DD4916D1C50636D007F6DA9 /* facebook@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook@2x.png"; sourceTree = "<group>"; };
+		3DD4916E1C50636D007F6DA9 /* facebook@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook@3x.png"; sourceTree = "<group>"; };
+		3DD4916F1C50636D007F6DA9 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
+		3DD491701C50636D007F6DA9 /* twitter@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitter@2x.png"; sourceTree = "<group>"; };
+		3DD491711C50636D007F6DA9 /* twitter@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitter@3x.png"; sourceTree = "<group>"; };
+		3DD491781C5064C8007F6DA9 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = QuickShareUdemy/.gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +97,14 @@
 				3DD491521C506093007F6DA9 /* QuickShareUdemyTests */,
 				3DD4915D1C506093007F6DA9 /* QuickShareUdemyUITests */,
 				3DD4913A1C506093007F6DA9 /* Products */,
+				3DD491781C5064C8007F6DA9 /* .gitignore */,
+				3DD491451C506093007F6DA9 /* Assets.xcassets */,
+				3DD4916C1C50636D007F6DA9 /* facebook.png */,
+				3DD4916D1C50636D007F6DA9 /* facebook@2x.png */,
+				3DD4916E1C50636D007F6DA9 /* facebook@3x.png */,
+				3DD4916F1C50636D007F6DA9 /* twitter.png */,
+				3DD491701C50636D007F6DA9 /* twitter@2x.png */,
+				3DD491711C50636D007F6DA9 /* twitter@3x.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -103,7 +125,6 @@
 				3DD4913E1C506093007F6DA9 /* FirstViewController.swift */,
 				3DD491401C506093007F6DA9 /* SecondViewController.swift */,
 				3DD491421C506093007F6DA9 /* Main.storyboard */,
-				3DD491451C506093007F6DA9 /* Assets.xcassets */,
 				3DD491471C506093007F6DA9 /* LaunchScreen.storyboard */,
 				3DD4914A1C506093007F6DA9 /* Info.plist */,
 			);
@@ -232,8 +253,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DD491791C5064C8007F6DA9 /* .gitignore in Resources */,
+				3DD491751C50636D007F6DA9 /* twitter.png in Resources */,
+				3DD491731C50636D007F6DA9 /* facebook@2x.png in Resources */,
+				3DD491741C50636D007F6DA9 /* facebook@3x.png in Resources */,
+				3DD491771C50636D007F6DA9 /* twitter@3x.png in Resources */,
 				3DD491491C506093007F6DA9 /* LaunchScreen.storyboard in Resources */,
+				3DD491721C50636D007F6DA9 /* facebook.png in Resources */,
 				3DD491461C506093007F6DA9 /* Assets.xcassets in Resources */,
+				3DD491761C50636D007F6DA9 /* twitter@2x.png in Resources */,
 				3DD491441C506093007F6DA9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
